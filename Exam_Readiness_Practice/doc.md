@@ -1,0 +1,4 @@
+- AWS Official Practice Questions
+    - [AWS Skill Builder (SAA-C03)](https://skillbuilder.aws/category/exam-prep/solutions-architect-associate-SAA-C03)
+    - [AWS Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
+    - [Tutorials Dojo Sample Questions](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03-sample-exam-questions/)
